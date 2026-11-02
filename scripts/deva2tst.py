@@ -64,7 +64,7 @@ def konvertiere(text):
             out.append('a'); i += 1; continue      # inhärentes a
         if z in VOLLVOKALE:                        # Regel 4
             vorher = out[-1][-1] if out and out[-1] else ''
-            if z in HIAT and vorher in VOKALE_LAT:
+            if z in HIAT and vorher and vorher in VOKALE_LAT:   # 'vorher and': am Wortanfang kein Trema
                 out.append(HIAT[z])                # Vokalhiat → ï / ü
             else:
                 out.append(VOLLVOKALE[z])

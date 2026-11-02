@@ -6,7 +6,7 @@ JB2a	yogatatva jinavari kahyaū, ūtaravā bhavapāra |
 JB2b	hiyaḍā harakhiïṃ bolisyaüṃ, yogatatva naü sāra || 2 ||
 JB3a	paramakṣara je parama guru, dākhyaū dasama duāri |
 JB3b	joga jugati kari cetanā, ahanisi soï saṃbhāri || 3 ||
-JB4a	ïḍā piṃgalā vici vasaï, sukha mana nāḍi gaṃbhīra |
+JB4a	iḍā piṃgalā vici vasaï, sukha mana nāḍi gaṃbhīra |
 JB4b	samarasa veṇī saṃgamiïṃ, niramala kari na sarīra || 4 ||
 JB5a	kamali kamali rasi vāhiyaü, mata misi kari saṃtoṣa |
 JB5b	gaṃga sarovari kamala vasi, niścaïṃ pāmisi mokha || 5 ||
@@ -25,11 +25,11 @@ JB11b	ātama tatva vicāratāṃ, kāyā niramala hoï || 11 ||
 JB12a	jiṇa varasavi iṇi pari huā, sīdhā siddha anaṃta |
 JB12b	paramahaṃsa pada dhyāvata, hoïsi sivapuri kaṃta || 12 ||
 JB13a	ghari-ghari phirataü vāri mana, joï na āpiïṃ āpa |
-JB13b	üna mana bhāviïṃ mana milaü, lāgaï puṇya na pāpa || 13 ||
+JB13b	una mana bhāviïṃ mana milaü, lāgaï puṇya na pāpa || 13 ||
 JB14a	kuṃḍaliṇī śiva saṃgamiïṃ, pātaga jāyaï dūri |
 JB14b	hṛdaya kamala dali prabhu vasaï, vilasaï āṇaṃdapūri || 14 ||
 JB15a	vītarāga ārādhatāṃ, teha ja vītarāga hoï |
-JB15b	ïlikā bhamarī dhyāvatī, ilikā bhamarī joï || 15 ||
+JB15b	ilikā bhamarī dhyāvatī, ilikā bhamarī joï || 15 ||
 JB16a	samudra mathī amṛta kāḍhiü, gorasa māhi ghṛta sāra |
 JB16b	sūtra save tima mathi kari, līdhaü samarasa sāra || 16 ||
 JB17a	aṣṭāṃga joga samarasa juaï, paṃca mahāvrata nīma |
@@ -52,7 +52,7 @@ JB25a	khiṇaï kamala samarasi ramaï, mukata karma jīva hoï |
 JB25b	eṇaïṃ bhavi kāla ja karaï, te sivi baïṭṭhā joï || 25 ||
 JB26a	jīvaïṃ jīva āhoratāṃ, jīvanaïṃ jīva na jāï |
 JB26b	prāṇī prāṇa ja rākhatā, sivapuri baïṭhā joï || 26 ||
-JB27a	üm̐ kāra mastaki ṭhavaü, sakati kuṃḍa liṇī nābhi |
+JB27a	um̐ kāra mastaki ṭhavaü, sakati kuṃḍa liṇī nābhi |
 JB27b	hṛdaya kamali haṃsa ja ramaï, jyotiïṃ jyoti nihāli || 27 ||
 JB28a	suhaguri māraga dākhiyaü, ṣakhaü khūṇaï phāḍi |
 JB28b	siva phoḍī ūcaü gayaü, hūaü tribhuvana tāṇa || 28 ||
@@ -64,6 +64,6 @@ JB31a	kāyā guphāïṃ kari maḍhī, tiha āsana mūlagaü haṃsa |
 JB31b	aṃbara vastra pahirī rahyaü, āvāgamaṇa na hoï || 31 ||
 JB32a	kāmi krodhi mana vāhiyaü, vāhyaü lobhiïṃ mohi |
 JB32b	samatā viṇu dhyāna ja nahī, tiṇi viṇu dharma maï (pṛ.1B)joï || 32 ||
-JB_closing1	ïti śrī joga batrīsī || 1 ||
+JB_closing1	iti śrī joga batrīsī || 1 ||
 JB_closing2	kṛtā śrī pārśvacaṃdreṇa | saṃvat 1683 varṣe māha śudi 5 guruvāre |
 JB_closing3	likhitaṃ kuṃyarajī gaṇinā | śrīpattane | graṃthā

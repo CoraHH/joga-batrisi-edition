@@ -27,9 +27,9 @@ A is a multiple-text manuscript of two folios (four works); only the first work 
 
 - 2026-10-28 witness A: manuscript description.
 - 2026-10-30 witness A: transcription of text 1 (f. 1r–1v); line breaks to be verified.
-- witness N: in preparation.
+- 2026-11-02 witness N: description and transcription (f. 1r–2r); line breaks to be verified. Images on archive.org (IIIF): https://archive.org/details/joga-batrisi-nani-khakhar
 
-Manuscript images are not part of this repository. They will be made available via IIIF once the holding institutions have given permission.
+Manuscript images are not part of this repository. Witness N is available via IIIF on archive.org with the permission of the Pārśvacandra-gaccha; witness A will follow once the AKGM has given permission.
 
 ## Licence
 

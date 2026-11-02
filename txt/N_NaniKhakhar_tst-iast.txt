@@ -8,7 +8,7 @@ JB2a	yogatatva jinavara kahyo, ūtaravā bhavapāra |
 JB2b	hīyaḍā harakhi bolisyuṃ, yogatatvano sāra || 2 ||
 JB3a	parama akṣara je parama guru, dākhyo dasama duāri |
 JB3b	joga jugati kari cetanā, ahinisi soï saṃbhāri || 3 ||
-JB4a	ïḍā piṃgalā vici vasaï, sukhamana nāḍi gaṃbhīra |
+JB4a	iḍā piṃgalā vici vasaï, sukhamana nāḍi gaṃbhīra |
 JB4b	samarasa veṇī saṃgamaiṃ, niramala karina sarīra || 4 ||
 JB5a	kamali kamali rasa bāhiyaü, ma bhamisi kari saṃtoṣa |
 JB5b	gaṃga sarovara kamala vasi, niścaï pāmisi mokṣa || 5 ||
@@ -27,11 +27,11 @@ JB11b	ātama tatva vicāratāṃ, kāyā niramala hoï || 11 ||
 JB12a	jiṇavara savi iṇi pari huā, sīdhā siddha anaṃta |
 JB12b	paramahaṃsa pada dhyāvatāṃ, hoï sivapura kaṃta || 12 ||
 JB13a	ghari ghari phirato vāri mana, jo na āpaïṃ āpa |
-JB13b	üna mana bhāvaïṃ mana milyo, lāgaï puṇya (pṛ.1B) na pāpa || 13 ||
+JB13b	una mana bhāvaïṃ mana milyo, lāgaï puṇya (pṛ.1B) na pāpa || 13 ||
 JB14a	kuṃḍaliṇī śiva saṃgamaiṃ, pātaga jāe dūri |
 JB14b	hṛdaya kamala dila prabhu vasaïṃ, vilasai āṇaṃdapūra || 14 ||
 JB15a	vītarāga ārādhatāṃ, vītarāga te hoï |
-JB15b	ïlikā bhamarā dhyāvatāṃ, ilikā bhamarī joï || 15 ||
+JB15b	ilikā bhamarā dhyāvatāṃ, ilikā bhamarī joï || 15 ||
 JB16a	saradramathī amṛta kāḍhīo, gorasamāṃhi ghṛta sāra |
 JB16b	sūtra save tima mathi karī, līdho samarasa sāra || 16 ||
 JB17a	aṣṭāṃga joga samarasa juaï, paṃcamahāvrata nāma |
@@ -68,5 +68,5 @@ JB32a	kāma krodha mana vāhīo, vāhyo lobhaïṃ moha |
 JB32b	samatā viṇu dhyāna ja nahī, tiṇa viṇu dharma ma joï || 32 ||
 JB33a	ātamagyāna ārādhinaïṃ, vasi kari rāhakhā manna |
 JB33b	śrī pāsacaṃda ima vīnavaï, samarasa nara te dhanya || 33 ||
-JB_closing1	ïti ātmajñāna dvātriṃśikā samāptāḥ ||
+JB_closing1	iti ātmajñāna dvātriṃśikā samāptāḥ ||
 JB_closing2	likhitaṃ ṛṣi karmasī 4 śrī ||
