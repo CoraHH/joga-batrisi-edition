@@ -42,19 +42,7 @@
                            <p>Paper, browned, with worn edges; small losses at the upper left corner of f. 1r.</p>
                         </support>
                         <extent>
-                           <measure unit="folio" quantity="2">2 folios (f. 2v not photographed, presumably blank)</measure>
-                           <dimensions type="object" unit="mm">
-                              <width quantity="???"/>
-                              <height quantity="???"/>
-                           </dimensions>
-                           <dimensions type="leaf" unit="mm">
-                              <width quantity="???"/>
-                              <height quantity="???"/>
-                           </dimensions>
-                           <dimensions type="written" unit="mm">
-                              <width quantity="???"/>
-                              <height quantity="???"/>
-                           </dimensions>
+                           <measure unit="folio" quantity="2">2 folios (f. 2v not photographed, presumably blank). Measurements to follow; the photographs carry no scale.</measure>
                         </extent>
                         <foliation>Nāgarī folio number <quote>1</quote> in the right margin of f. 1v, by the scribe.</foliation>
                         <collation><desc xml:id="U1">2 folios = <emph rend="bold">Text</emph>. Foliated 1. Text on f. 1r (13 lines), f. 1v (13 lines) and f. 2r (9 lines, ending with the colophon).</desc></collation>

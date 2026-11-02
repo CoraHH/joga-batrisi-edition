@@ -67,19 +67,7 @@
                            <p>Paper, now yellowed, with frayed and chipped edges; a stain at the lower left of f. 2r/2v.</p>
                         </support>
                         <extent>
-                           <measure unit="folio" quantity="2">2 folios (library wrapper: <quote xml:lang="hi-Deva">panne 2</quote>)</measure>
-                           <dimensions type="object" unit="mm">
-                              <width quantity="???"/>
-                              <height quantity="???"/>
-                           </dimensions>
-                           <dimensions type="leaf" unit="mm">
-                              <width quantity="???"/>
-                              <height quantity="???"/>
-                           </dimensions>
-                           <dimensions type="written" unit="mm">
-                              <width quantity="???"/>
-                              <height quantity="???"/>
-                           </dimensions>
+                           <measure unit="folio" quantity="2">2 folios (library wrapper: <quote xml:lang="hi-Deva">panne 2</quote>). Measurements to follow.</measure>
                         </extent>
                         <foliation>Nāgarī foliation 1, 2 at the bottom right of each verso, by the scribe.</foliation>
                         <collation><desc xml:id="U1">2 folios = <emph rend="bold">Texts 1–4</emph>. Foliated 1–2. Text 1 on f. 1r–1v (line 1), text 2 on f. 1v–2r (line 5), text 3 on f. 2r–2v (line 16), text 4 on f. 2v (lines 16–21), incomplete.</desc></collation>
