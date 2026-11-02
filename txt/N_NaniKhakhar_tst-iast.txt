@@ -1,0 +1,72 @@
+JB_opening1	yogabatrīsī
+JB_opening2	(pṛ.1A) || bhale mīṃḍu ||
+JB_opening3	śrī gurubhyo namaḥ ||
+JB_opening4	atha yogabatrīsī likhyate
+JB1a	arihaṃtadeva susādhu guru, kevali bhākhita dharma |
+JB1b	paramānaṃda ālokatāṃ, lābhaï tatvanau marma || 1 ||
+JB2a	yogatatva jinavara kahyo, ūtaravā bhavapāra |
+JB2b	hīyaḍā harakhi bolisyuṃ, yogatatvano sāra || 2 ||
+JB3a	parama akṣara je parama guru, dākhyo dasama duāri |
+JB3b	joga jugati kari cetanā, ahinisi soï saṃbhāri || 3 ||
+JB4a	ïḍā piṃgalā vici vasaï, sukhamana nāḍi gaṃbhīra |
+JB4b	samarasa veṇī saṃgamaiṃ, niramala karina sarīra || 4 ||
+JB5a	kamali kamali rasa bāhiyaü, ma bhamisi kari saṃtoṣa |
+JB5b	gaṃga sarovara kamala vasi, niścaï pāmisi mokṣa || 5 ||
+JB6a	pūraka recaka kuṃbha kaïṃ, ma karisi kāya saṃtāpa |
+JB6b	sahaja sudhārasa jhīlatāṃ, phīṭai bhava duha tāpa || 6 ||
+JB7a	ahinisi japi prāṇāyāna, prāṇāyāma pravesa |
+JB7b	cetana viṇu ajapā japaï, ...misi bhava bhaṇa resa || 7 ||
+JB8a	parama brahma eka citti kari, caṃcalapaṇo nivāri |
+JB8b	parama vidyānaṃda dhyāï je, jina na bhamai saṃsāra || 8 ||
+JB9a	aṃbara darasiï amiya rasa, tejala pāchau vāli |
+JB9b	paścima nīka vahāvi kari, tiṇi jala paṃka pakhāli || 9 ||
+JB10a	kāyā paṃjara haṃsalau, kaḍaï cittiya yāṃṇa |
+JB10b	ghira ghira āpaneṃ cīṃtavaï, tau huï pada niravāṇa || 10 ||
+JB11a	sohaṃ sohaṃ huṃ sahuṃ, avara na bījo koï |
+JB11b	ātama tatva vicāratāṃ, kāyā niramala hoï || 11 ||
+JB12a	jiṇavara savi iṇi pari huā, sīdhā siddha anaṃta |
+JB12b	paramahaṃsa pada dhyāvatāṃ, hoï sivapura kaṃta || 12 ||
+JB13a	ghari ghari phirato vāri mana, jo na āpaïṃ āpa |
+JB13b	üna mana bhāvaïṃ mana milyo, lāgaï puṇya (pṛ.1B) na pāpa || 13 ||
+JB14a	kuṃḍaliṇī śiva saṃgamaiṃ, pātaga jāe dūri |
+JB14b	hṛdaya kamala dila prabhu vasaïṃ, vilasai āṇaṃdapūra || 14 ||
+JB15a	vītarāga ārādhatāṃ, vītarāga te hoï |
+JB15b	ïlikā bhamarā dhyāvatāṃ, ilikā bhamarī joï || 15 ||
+JB16a	saradramathī amṛta kāḍhīo, gorasamāṃhi ghṛta sāra |
+JB16b	sūtra save tima mathi karī, līdho samarasa sāra || 16 ||
+JB17a	aṣṭāṃga joga samarasa juaï, paṃcamahāvrata nāma |
+JB17b	āsana mūla ddaḍha baṃdhi karī, rūddhi prāṇāyāma || 17 ||
+JB18a	śubhāśubha śrati hāri kari, dhāraṇa ika cita hoï |
+JB18b	dhyāna samādhi mana ramaïṃ, te samarasa līṇā hoï || 18 ||
+JB19a	nādaiṃ mana anubāṃdhīye, kāyā baṃdhyo vāü |
+JB19b	dhyānaiṃ vacana ja bāṃdhīye, teṇaiṃ śivapuri ṭhāü || 19 ||
+JB20a	mastaka lalāṭa vihūṃ vicaïṃ, jai ravi śaśi ika hoï |
+JB20b	koḍi joti tiha ūpajaï, mana leī tiha meli || 20 ||
+JB21a	karmaiṃ kāyā baṃdhīyaï, kāyā baṃdhyo haṃsa |
+JB21b	jyoti jugati ucchāha kari, ūḍī śivapuri baisi || 21 ||
+JB22a	aṃjana vahyau jaga bhamaïṃ, jāṃ navi guruno yoga |
+JB22b	suguru vacana jihāṃ tiha rasai, teha niraṃjana hoï || 22 ||
+JB23a	anādi jīva sahuko kahai, aṃta na lābhaï koï |
+JB23b	sādhu yogīsvara je huā, aṃta ja lādho teṇi || 23 ||
+JB24a	jīva pudagala kṣipaka huï, na karai ti have sāsa |
+JB24b	pāpa karma thakī chūṭīyaï, chūṭaï to bhava pāsa || 24 ||
+JB25a	kṣiṇa eka mana samarasi ramaïṃ, mukata karma jīva hoï |
+JB25b	eṇeṃ bhava kāla ja karai, te gati baiṭhā joï || 25 ||
+JB26a	jīvaiṃ jīva āhāratāṃ, jīvanaiṃ jība na joï |
+JB26b	prāṇī prāṇa ja rākhatāṃ, śivapuri tasa tī (pṛ.2A) joï || 26 ||
+JB27a	ūm̐ kāra mastaki ṭhavo, sakati kuṃḍaliṇā nāmi |
+JB27b	hṛdaya kamali haṃsa ja ramaïṃ, jotiïṃ jyoti nihāli || 27 ||
+JB28a	suhaguru māraga dākhīo, khamo khūṇaïṃ phāḍi |
+JB28b	bhava pheḍī ūṃco gayo, huyo tribhuvana bhāṇa || 28 ||
+JB29a	maṃtra je ādi akṣaraïṃ, ma karisa ghaṇo upacāra |
+JB29b	puramakṣara ika dhyāï je, chaṃḍī savi vyāpāra || 29 ||
+JB30a	anaṃtakāla jīva kāyā dharī, tau thira kāï na hoï |
+JB30b	niṣcala śivapada sādhutāṃ, ātama niścala hoï || 30 ||
+JB31a	kāyā guphāïṃ kari maḍhī, tiha āsana mūlago haṃsa |
+JB31b	aṃbara vastra paharī rahyo, āvāgamaṇa na hoï || 31 ||
+JB32a	kāma krodha mana vāhīo, vāhyo lobhaïṃ moha |
+JB32b	samatā viṇu dhyāna ja nahī, tiṇa viṇu dharma ma joï || 32 ||
+JB33a	ātamagyāna ārādhinaïṃ, vasi kari rāhakhā manna |
+JB33b	śrī pāsacaṃda ima vīnavaï, samarasa nara te dhanya || 33 ||
+JB_closing1	ïti ātmajñāna dvātriṃśikā samāptāḥ ||
+JB_closing2	likhitaṃ ṛṣi karmasī 4 śrī ||

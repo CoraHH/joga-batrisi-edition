@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="tei-to-html.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <script src="../lib/js/xslt-polyfill.min.js" xmlns="http://www.w3.org/1999/xhtml"></script>
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Collection (4 works)</title>
+            <editor role="cataloguer"><persName>Corinna May Lhoir</persName> <orgName>Universität Hamburg</orgName></editor>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>TST Project</publisher>
+            <date>2026</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>
+                     <orgName>Ācārya Śrī Kailāsasāgarasūri Jñānamandir, Śrī Mahāvīra Jaina Ārādhanā Kendra, Koba (Gandhinagar, Gujarat)</orgName>
+                  </repository>
+                  <idno type="shelfmark">145480</idno>
+                  <idno type="alternate"><idno>AKGM 145480 (sāmānya kramāṅka)</idno></idno>
+               </msIdentifier>
+               <msContents class="#MTM">
+                  <summary><p>Multiple-text manuscript of two folios, written by a single hand in VS 1683 (1627 CE) at Pattana (Pāṭaṇ) and Muñjapura. Contains four works of the Pārśvacandra-gaccha milieu: (1) the <title xml:lang="gu">Joga Batrīsī</title> of <persName xml:lang="sa">Pārśvacandra</persName>, 32 verses (f. 1r–1v, line 1), copied at Pattana; (2) the <title xml:lang="sa">Pañcaviṃśatikriyādvātriṃśikā-svādhyāya</title> (<title xml:lang="gu">Svādhyāya Batrīsī</title>) of <persName xml:lang="sa">Samaracandra</persName>, disciple of Pārśvacandra, 32 verses (f. 1v–2r), copied at Muñjapura; (3) a <title xml:lang="sa">Mahāvīra-vijñapti-stavana</title> (f. 2r–2v), copied at Muñjapura; (4) a fourth work beginning <quote xml:lang="gu">kalakalā hīṇā mana tava sārā</quote> (f. 2v), breaking off after verse 4 at the end of the leaf: the manuscript is incomplete at the end (catalogued as <quote xml:lang="gu">naṭhī</quote>).</p>
+<p>Witness A of the edition of the <title xml:lang="gu">Joga Batrīsī</title> (colophon title in witness N: <title xml:lang="sa">Ātmajñāna-dvātriṃśikā</title>). Only the first work is transcribed in full below.</p></summary>
+                  <msItem xml:id="T1" defective="false">
+                     <title xml:lang="gu">Joga Batrīsī</title>
+                     <author xml:lang="sa">Pārśvacandra</author>
+                     <textLang mainLang="guj" otherLangs="san"/>
+                     <rubric xml:lang="sa"><pb n="1r" facs="2"/><lb n="1"/>|| aiṃ namaḥ ||</rubric>
+                     <incipit xml:lang="gu">arihaṃta deva susādhu guru kevali bhākhita dharma | paramānaṃda ālokatāṃ lābhaï tatva naü marma || 1 ||</incipit>
+                     <explicit xml:lang="gu">kāmi krodhi mana vāhiyaü vāhyaü lobhiïṃ mohi samatā viṇu dhyāna ja nahī tiṇi viṇu dharma maï <pb n="1v" facs="3"/><lb n="1"/>joï || 32 ||</explicit>
+                     <finalRubric xml:lang="sa">iti śrī joga batrīsī || 1 ||</finalRubric>
+                     <colophon xml:lang="sa">kṛtā śrī pārśvacaṃdreṇa | saṃvat 1683 varṣe māha śudi 5 guruvāre | likhitaṃ kuṃyarajī gaṇinā | śrīpattane | graṃthā</colophon>
+                  </msItem>
+                  <msItem xml:id="T2" defective="false">
+                     <title xml:lang="sa">Pañcaviṃśatikriyādvātriṃśikā-svādhyāya</title>
+                     <author xml:lang="sa">Samaracandra</author>
+                     <textLang mainLang="guj" otherLangs="san"/>
+                     <rubric xml:lang="sa"><pb n="1v" facs="3"/><lb n="1"/>|| aiṃ namaḥ ||</rubric>
+                     <incipit xml:lang="gu">śrī guru paya paṃkaja namaü asiāüsā vali mana bhāï | nāmiïṃ śivasukha saṃpajaï bhava pātaka savi dūri thāï || 1 ||</incipit>
+                     <explicit xml:lang="gu">sūriṃda śrī pāsacaṃda sīsiïṃ śrī samaracaṃdiïṃ tima kahī | bhaṇijeya bhāviïṃ citti dhyāvaï kriyāthī mana vāra e | bhava jaladhi bhuja bali tariya bhaviyaṇa sakala dukkha nivāra e || 32 ||</explicit>
+                     <finalRubric xml:lang="sa">iti śrī paṃcaviṃśati kriyā dvātriṃśakā svādhyāyaḥ || 2 graṃthā</finalRubric>
+                     <colophon xml:lang="sa">saṃvat 1683 varṣe māha sudi 9 caṃdre | muṃjapuro |</colophon>
+                  </msItem>
+                  <msItem xml:id="T3" defective="false">
+                     <title xml:lang="sa">Mahāvīra-vijñapti-stavana</title>
+                     <textLang mainLang="guj" otherLangs="san"/>
+                     <rubric xml:lang="sa">|| aiṃ namaḥ ||</rubric>
+                     <incipit xml:lang="gu">jaya sakala narā sura svāmī re śrī vīra namaüṃ siranāmī | gayarāya haṃsa gaï gāmī re prabhu mugati ramaṇi laghu pāmī || 1 ||</incipit>
+                     <finalRubric xml:lang="sa">iti śrī mahāvīra vijñapti ??? stavanaṃ samāptaṃ || graṃthā</finalRubric>
+                     <colophon xml:lang="sa">saṃvat 1683 varṣe māha sudi 1? budhavāre | śrī muṃjapure ||</colophon>
+                  </msItem>
+                  <msItem xml:id="T4" defective="true">
+                     <title xml:lang="gu">[unidentified]</title>
+                     <textLang mainLang="guj"/>
+                     <rubric xml:lang="sa">|| aiṃ namaḥ ||</rubric>
+                     <incipit xml:lang="gu">kalakalā hīṇā mana tava sārā ???</incipit>
+                     <explicit xml:lang="gu">??? || 4 || [breaks off at the end of f. 2v]</explicit>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc form="pothi" rend="manuscript">
+                     <supportDesc material="paper">
+                        <support>
+                           <p>Paper, now yellowed, with frayed and chipped edges; a stain at the lower left of f. 2r/2v.</p>
+                        </support>
+                        <extent>
+                           <measure unit="folio" quantity="2">2 folios (library wrapper: <quote xml:lang="hi-Deva">panne 2</quote>)</measure>
+                           <dimensions type="object" unit="mm">
+                              <width quantity="???"/>
+                              <height quantity="???"/>
+                           </dimensions>
+                           <dimensions type="leaf" unit="mm">
+                              <width quantity="???"/>
+                              <height quantity="???"/>
+                           </dimensions>
+                           <dimensions type="written" unit="mm">
+                              <width quantity="???"/>
+                              <height quantity="???"/>
+                           </dimensions>
+                        </extent>
+                        <foliation>Nāgarī foliation 1, 2 at the bottom right of each verso, by the scribe.</foliation>
+                        <collation><desc xml:id="U1">2 folios = <emph rend="bold">Texts 1–4</emph>. Foliated 1–2. Text 1 on f. 1r–1v (line 1), text 2 on f. 1v–2r (line 5), text 3 on f. 2r–2v (line 16), text 4 on f. 2v (lines 16–21), incomplete.</desc></collation>
+                        <condition>Edges worn and chipped, small losses at the corners; text fully legible.</condition>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout columns="1" writtenLines="21">21 lines per page (f. 2r: 19). Double red marginal rules on both sides. A blank square in the centre of each page (lines 9–13) imitates a string-hole space; no actual hole.</layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <handDesc><handNote scope="sole" script="devanagari" scriptRef="#jainaNagari" medium="ink black"><desc>Jaina nāgarī, a regular professional hand. Verse numbers and daṇḍas in the same ink. ??? pṛṣṭhamātrā / ba–va distinction to be checked on the images.</desc></handNote></handDesc>
+                  <decoDesc><decoNote type="decorative"><desc>Red double marginal rules; red ink used for the daṇḍas marking the verse ends on f. 1r (???to be checked).</desc></decoNote></decoDesc>
+                  <additions>
+                     <desc type="title" subtype="marginal">Marginal title in the scribe's hand, left margin of <locus facs="2">f. 1r</locus>: <quote xml:lang="gu">joga batrīsī</quote>.</desc>
+                     <desc type="title" subtype="marginal">Marginal title, left margin of <locus facs="5">f. 2v</locus>: <quote xml:lang="gu">svādhyāya ??? battīsī 2</quote>.</desc>
+                     <desc type="foliation" subtype="marginal">Folio numbers <quote>1</quote>, <quote>2</quote> at the bottom right of <locus facs="3">f. 1v</locus> and <locus facs="5">f. 2v</locus>.</desc>
+                     <desc type="documenting-note" subtype="marginal">Note in the right margin of <locus facs="3">f. 1v</locus>: <quote xml:lang="gu">??? || jarivālaṃ 4</quote> (to be read).</desc>
+                     <desc type="stamp" subtype="marginal">Library stamp in red, left margin of <locus facs="2">f. 1r</locus> and right margin of <locus facs="5">f. 2v</locus>: <quote xml:lang="hi-Deva">आ. श्री कैलाससागरसूरि ज्ञानमंदिर, श्री महावीर जैन आराधना केन्द्र, कोबा</quote>, with the accession number <quote>सा. क्रमांक १४५४८०</quote> added in blue ink.</desc>
+                     <desc type="shelfmark" subtype="cover">Library wrapper (<locus facs="1">image 1</locus>) with printed form: <quote xml:lang="hi-Deva">नाम: — पन्ने: २ — सामान्य क्रमांक: १४५४८० — विभागीय अनुक्रमांक: —</quote>.</desc>
+                  </additions>
+                  <bindingDesc>
+                     <binding>
+                        <p>Loose leaves kept in a library wrapper. No string-hole.</p>
+                        <decoNote type="stringhole">
+                           <measure unit="stringhole" quantity="0"/>
+                        </decoNote>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate calendar="gregorian" when="1627">Dated by the colophons of texts 1–3: VS 1683, Māgha śukla 5, Thursday (text 1), Māgha śukla 9, Monday (text 2) and Māgha śukla 1?, Wednesday (text 3) = January–February 1627 CE.</origDate>
+                     <origPlace>Pattana (Pāṭaṇ, North Gujarat) for text 1; Muñjapura (Munjpur, near Pāṭaṇ) for texts 2 and 3. Scribe: <persName xml:lang="sa" role="scribe">Kuṃyarajī Gaṇi</persName>.</origPlace>
+                  </origin>
+                  <provenance><p>???</p></provenance>
+                  <acquisition><p>Digital images (5 JPEG scans, c. 180 dpi) supplied by the AKGM, Koba, in 2024. ???</p></acquisition>
+               </history>
+               <additional>
+                  <listBibl>
+                     <bibl>Lhoir, Corinna May. forthcoming. "The Joga Baṭrīsī: Vernacular Jain Yoga and the Reordering of Aṣṭāṅga Yoga." (Chapter IV of the cumulative dissertation, with critical edition.)</bibl>
+                     <bibl>??? Koba catalogue entry</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc><p>Diplomatic transcription in IAST following the TST conventions; the Devanāgarī view is generated from it. Independent vowels after a vowel (vowel hiatus, e.g. lābhaï = लाभइ, kahyaü = कह्यउ) are written with diaeresis (ï, ü), as distinct from the diphthongs ai/au (ै/ौ). Line breaks of the manuscript are marked with lb; the blank central square is not marked. Spaces added between words where possible; the scribe writes without word spaces. Daṇḍas and verse numbers as in the manuscript. Anusvāra is transcribed as written (ṃ), never normalised to a class nasal. The akṣaras ba and va are distinguished as written (???to be checked). Language of the verses: Old Gujarati / Maru-Gurjar, tagged provisionally as gu; rubrics and colophons in Sanskrit, tagged sa.</p></encodingDesc>
+      <revisionDesc><change when="2026-10-28">First version: header and manuscript description (Corinna May Lhoir, with Claude).</change><change when="2026-10-30">Transcription of text 1 (f. 1r–1v) added in IAST; line breaks of f. 1r to be verified against the images.</change></revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <!-- local images, no IIIF manifest: facs="1" = A_AKGM145480_full-000.jpg (library wrapper), facs="2" = f. 1r (full-001), facs="3" = f. 1v (full-002), facs="4" = f. 2r (full-003), facs="5" = f. 2v (full-004) -->
+   </facsimile>
+   <text corresp="#T1" xml:lang="gu">
+      <body>
+         <pb n="1r" facs="2"/>
+         <p><lb n="1"/><seg function="rubric" xml:lang="sa">|| aiṃ namaḥ ||</seg></p>
+         <lg n="1">
+            <l>arihaṃta deva susādhu guru kevali bhākhita dharma |</l>
+            <l>paramānaṃda ālokatāṃ lābhaï tatva naü marma || 1 ||</l>
+         </lg>
+         <lg n="2">
+            <l>yogatatva jinavari kahyaü ūtaravā bhavapāra |</l>
+            <l><lb n="2"/>hiyaḍā harakhiïṃ bolisyaüṃ yogatatva naü sāra || 2 ||</l>
+         </lg>
+         <lg n="3">
+            <l>paramakṣara je parama guru dākhyaü dasama duāri |</l>
+            <l>joga jugati kari cetanā ahanisi soï saṃbhāri || 3 ||</l>
+         </lg>
+         <lg n="4">
+            <l>iḍā piṃ<lb n="3" break="no"/>galā vici vasaï sukha mana nāḍi gaṃbhīra |</l>
+            <l>samarasa veṇī saṃgamiïṃ niramala kari na sarīra || 4 ||</l>
+         </lg>
+         <lg n="5">
+            <l>kamali kamali rasi vāhiyaü mata misi kari saṃtoṣa |</l>
+            <l>gaṃga sarova<lb n="4" break="no"/>ri kamala vasi niścaïṃ pāmisi mokha || 5 ||</l>
+         </lg>
+         <lg n="6">
+            <l>pūraka recaka kuṃbha kiïṃ ma karisi kāya saṃtāpa |</l>
+            <l>sahaja sudhārasi jhīlatāṃ phīṭaï bhava duha pāpa || 6 ||</l>
+         </lg>
+         <lg n="7">
+            <l>ahanisi japi prā<lb n="5" break="no"/>ṇāpāna prāṇāyāma pravesa |</l>
+            <l>cetana viṇu ajapā japaï bhamisi bhavattaṇa resu || 7 ||</l>
+         </lg>
+         <lg n="8">
+            <l>paravrahma ika citti kari caṃcala paṇaü nivāri |</l>
+            <l>parama vidyānaṃda dhyāïje ji<lb n="6" break="no"/>ma nabhamaï saṃsāri || 8 ||</l>
+         </lg>
+         <lg n="9">
+            <l>aṃbara varasaï amiya rasa tejala pālaü vāli |</l>
+            <l>paścima nī kavahāvi kari tiṇi jali paṃka pakhāli || 9 ||</l>
+         </lg>
+         <lg n="10">
+            <l>kāyā paṃjari haṃsalaü ūḍaï <lb n="7"/>citta ayāṇa |</l>
+            <l>ghira ghira āpanaïṃ cītavaï taü huï pada niravāṇi || 10 ||</l>
+         </lg>
+         <lg n="11">
+            <l>sohaṃ sohaṃ hūṃ sahū avara na bījaü koï |</l>
+            <l>ātama tatva vicāratāṃ kāyā niramala hoï || <lb n="8"/>11 ||</l>
+         </lg>
+         <lg n="12">
+            <l>jiṇa varasavi iṇi pari huā sīdhā siddha anaṃta |</l>
+            <l>paramahaṃsa pada dhyāvata hoïsi sivapuri kaṃta || 12 ||</l>
+         </lg>
+         <lg n="13">
+            <l>ghari ghari phirataü vāri mana joï na āpiïṃ āpa |</l>
+            <l><lb n="9"/>una mana bhāviïṃ mana milaü lāgaï puṇya na pāpa || 13 ||</l>
+         </lg>
+         <lg n="14">
+            <l>kuṃḍaliṇī śiva saṃgamiïṃ pātaga jāyaï dūri |</l>
+            <l>hṛdaya kamala dali prabhu vasaï vilasaï āṇaṃdapūri <lb n="10"/>|| 14 ||</l>
+         </lg>
+         <lg n="15">
+            <l>vītarāga ārādhatāṃ teha ja vītarāga hoï |</l>
+            <l>ilikā bhamarī dhyāvatī ilikā bhamarī joï || 15 ||</l>
+         </lg>
+         <lg n="16">
+            <l>samudra mathī amṛta kāḍhiü gorasa māhi ghṛta sāra |</l>
+            <l><lb n="11"/>sūtra save tima mathi kari līdhaü samarasa sāra || 16 ||</l>
+         </lg>
+         <lg n="17">
+            <l>aṣṭāṃga joga samarasa juaï paṃca mahāvrata nīma |</l>
+            <l>āsana mūla ddaḍha baṃdha kari rūṃdhi prāṇāyāma īma <lb n="12"/>|| 17 ||</l>
+         </lg>
+         <lg n="18">
+            <l>subhāsubha pratahāra kari dhāraṇa ika cita hoï |</l>
+            <l>dhyāna samādhiïṃ mana ramaïṃ te samarasi līṇa hoï || 18 ||</l>
+         </lg>
+         <lg n="19">
+            <l>nādiïṃ manu anubāṃdhiyaïṃ kāyā baṃdhyaü <lb n="13"/>vāü |</l>
+            <l>dhyāni vacana bāṃdhiyaïṃ teṇaïṃ sivapuri ṭhāū || 19 ||</l>
+         </lg>
+         <lg n="20">
+            <l>mastaka lalāṭa cihuṃ vicaïṃ jaï ravi sasi ika hoï |</l>
+            <l>koḍi jyoti tiha ūpajaï mana leī tiha <lb n="14"/>meli || 20 ||</l>
+         </lg>
+         <lg n="21">
+            <l>karmiïṃ kāyā bāṃdhiyaï kāyā bāṃdhyaü haṃsa |</l>
+            <l>jyoti jugati ucchāha kari ūḍī śivapuri baïsi || 21 ||</l>
+         </lg>
+         <lg n="22">
+            <l>aṃjana vāhyaü jaga bhamaï jā navi guru na<lb n="15" break="no"/>ü joga |</l>
+            <l>suguru vacana jiha citi vasaï tihanaïṃ niraṃjana hoï || 22 ||</l>
+         </lg>
+         <lg n="23">
+            <l>anādi jīva sahuko kahaï aṃta na lābhaï koï |</l>
+            <l>sādhu jogīśvara je huyā aṃta jalā<lb n="16" break="no"/>dhaü teṇi || 23 ||</l>
+         </lg>
+         <lg n="24">
+            <l>jīva pudagala khema kahu aï na karaï tiha vīsāsa |</l>
+            <l>pāpa karma thakā chūṭiyaï chaṭaï taü bhava pāsa || 24 ||</l>
+         </lg>
+         <lg n="25">
+            <l>khiṇaï kamala samarasi ramaï mukata ka<lb n="17" break="no"/>rma jīva hoï ||</l>
+            <l>eṇaïṃ bhavi kāla ja karaï te sivi baïṭṭhā joï || 25 ||</l>
+         </lg>
+         <lg n="26">
+            <l>jīvaïṃ jīva āhoratāṃ jīvanaïṃ jīva na jāï |</l>
+            <l>prāṇī prāṇa ja rākhatā sivapuri baïṭhā jo<lb n="18" break="no"/>ï || 26 ||</l>
+         </lg>
+         <lg n="27">
+            <l>um̐ kāra mastaki ṭhavaü sakati kuṃḍa liṇī nābhi |</l>
+            <l>hṛdaya kamali haṃsa ja ramaï jyotiïṃ jyoti nihāli || 27 ||</l>
+         </lg>
+         <lg n="28">
+            <l>suhaguri māraga dākhiyaü ṣakhaü khūṇaï <lb n="19"/>phāḍi |</l>
+            <l>siva phoḍī ūcaü gayaü hūaü tribhuvana tāṇa || 28 ||</l>
+         </lg>
+         <lg n="29">
+            <l>maṃtra je ādi akṣariïṃ ma kari sighaṇaüṃ upacāra |</l>
+            <l>paramakṣara ika dhyāï je chaṃḍī savi vyāpā<lb n="20" break="no"/>ra || 29 ||</l>
+         </lg>
+         <lg n="30">
+            <l>anaṃtakāla jīva kāyā dharī taü thira kāya na hoï |</l>
+            <l>niścala siva pada sādhatāṃ ātamā niścala hoï || 30 ||</l>
+         </lg>
+         <lg n="31">
+            <l>kāyā guphāïṃ kari maḍhī tiha āsana mūlagaü <lb n="21"/>haṃsa |</l>
+            <l>aṃbara vastra pahirī rahyaü āvāgamaṇa na hoï || 31 ||</l>
+         </lg>
+         <lg n="32">
+            <l>kāmi krodhi mana vāhiyaü vāhyaü lobhiïṃ mohi |</l>
+            <l>samatā viṇu dhyāna ja nahī tiṇi viṇu dharma maï <pb n="1v" facs="3"/><lb n="1"/>joï || 32 ||</l>
+         </lg>
+         <p><seg function="completion-statement" xml:lang="sa">iti śrī joga batrīsī || 1 ||</seg> <seg function="colophon" xml:lang="sa">kṛtā śrī pārśvacaṃdreṇa | saṃvat 1683 varṣe māha śudi 5 guruvāre | likhitaṃ kuṃyarajī gaṇinā | śrīpattane | graṃthā</seg></p>
+         <!-- Text 2 (Svādhyāya Batrīsī) begins in the same line: || aiṃ namaḥ || śrī guru paya ... ; not transcribed here -->
+      </body>
+   </text>
+</TEI>

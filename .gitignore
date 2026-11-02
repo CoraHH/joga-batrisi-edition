@@ -1,0 +1,9 @@
+# Betriebssystem- und Editor-Dateien
+Thumbs.db
+.DS_Store
+*~
+# keine Handschriftenbilder im Repository
+*.jpg
+*.jpeg
+*.png
+*.pdf
